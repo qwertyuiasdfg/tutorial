@@ -1,2 +1,2 @@
 console.log('A');
-console.log('reset1の練習')
+console.log('future-A');
