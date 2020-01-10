@@ -1,2 +1,1 @@
-console.log('B');
-console.log('BBB')
+console.log('BB');
